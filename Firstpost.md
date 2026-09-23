@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>First post</h1>
@@ -13,5 +12,3 @@
 </html></p >
 <br>
 <a href="index.html">
-</body>
-</html>
