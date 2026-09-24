@@ -1,6 +1,5 @@
- Kmbo7evt'blog
- -
-
+ # Kmbo7evt'blog
+ > My ctf program
 - [First post](Firstpost.md)
 - [CTF1 滑稽 writeup](Bugku2HuaJi.md)
 - [CTF2 计算器 writeup](Bugku3JiSuanQi.md)
