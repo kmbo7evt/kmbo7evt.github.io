@@ -1,3 +1,6 @@
+---
+layout:default
+---
  # Kmbo7evt'blog
  > My ctf program
 - [First post](Firstpost.md)
