@@ -1,4 +1,5 @@
- # kmbo7evt'blog
+ Kmbo7evt'blog
+ -
 
 - [第一条帖子](Firstpost.md)
 - [CTF1 滑稽 writeup](Bugku2HuaJi.md)
