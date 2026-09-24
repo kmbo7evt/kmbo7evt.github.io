@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
  # Kmbo7evt'blog
  > My ctf program
