@@ -10,3 +10,4 @@
 - [CTF7 Post writeup](Bugku8Post.md)
 - [CTF8 这是一张单纯的图片 writeup](Bugku9ZheShiYi.md)
 - [CTF9 这是一张单纯的图片 writeup](Bugku10XieGangDian.md)
+- [CTF10 聪明的小羊 writeup](Bugku11CongMingYang.md)
