@@ -9,3 +9,4 @@
 - [CTF6 Get writeup](Bugku7Get.md)
 - [CTF7 Post writeup](Bugku8Post.md)
 - [CTF8 这是一张单纯的图片 writeup](Bugku9ZheShiYi.md)
+- [CTF9 这是一张单纯的图片 writeup](Bugku10XieGangDian.md)
